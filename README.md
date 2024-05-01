@@ -1,6 +1,6 @@
 # Stock Market Analysis Dashboard
 
-Welcome to the Stock Market Analysis Dashboard! This dashboard provides insights into various aspects of the stock market, helping users to make informed decisions.
+Welcome to the Stock Market Analysis Dashboard! This dashboard provides insights into various aspects of the stock market such as the price variance and volume traded over specific study period in order to measure growth of the stocks, helping users to make informed decisions.
 
 https://public.tableau.com/app/profile/huy8780/viz/StockMarketAnalysis_17131307744670/Dashboard1
 
